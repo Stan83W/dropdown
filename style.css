@@ -1,0 +1,12 @@
+body {
+	background-color: white;
+	color: white;
+}
+h1 {
+	position: fixed;
+	top: 10px;
+	left: 10px;
+}
+canvas {
+	vertical-align: bottom;
+}
